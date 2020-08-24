@@ -1,0 +1,6 @@
+framework module Pods_Alinea_iOS_Alinea_iOSUITests {
+  umbrella header "Pods-Alinea iOS-Alinea iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
